@@ -1,9 +1,3 @@
-# CraftingInterpreters
-Writing an interpreter in java! 
-
-these notes are from the book <b>crafting interpreters by Robert Nystrom </b>
-
-
 ## Scanner 
 A Scanner takes the linear stream of characters and turns them into words called tokens. 
 e.g. <br>
